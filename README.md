@@ -30,7 +30,7 @@ The project uses a customer shopping behavior dataset containing information rel
 
 Customer Shopping Behavior Dashboard
 
-"Dashboard" (screenshots/dashboard.png)
+
 
 🔍 Key Analysis
 
