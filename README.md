@@ -27,6 +27,9 @@ This project analyzes customer shopping behavior using Microsoft Power BI and Ex
 The project uses a customer shopping behavior dataset containing information related to customer demographics, purchases, product categories, discounts, payment methods, and purchasing patterns.
 
 📈 Dashboard
+Screenshot 2026-10-08 190547.png
+Screenshot 2026-10-08 190723.png
+
 
 
 Customer Shopping Behavior Dashboard
