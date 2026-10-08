@@ -28,9 +28,7 @@ The project uses a customer shopping behavior dataset containing information rel
 
 📈 Dashboard
 
-Screenshot 2026-10-08 190547.png
 
-Screenshot 2026-10-08 190723.png
 
 
 
