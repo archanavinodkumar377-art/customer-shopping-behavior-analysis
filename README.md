@@ -51,6 +51,7 @@ The analysis helps identify patterns in customer purchasing behavior and provide
 👩‍💻 Project Author
 
 Archana V
+
 Aspiring Data Analyst 
 
 Skills Demonstrated
